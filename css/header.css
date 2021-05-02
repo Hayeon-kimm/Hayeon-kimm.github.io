@@ -1,0 +1,42 @@
+.header {
+    margin-top: 1rem;
+  }
+  
+  .top-header {
+    height: 15rem;
+    background-color: #fffcf3;
+    display: flex;
+    justify-content: left;
+    color : #ffe699;
+  }
+  
+  .top-header-text {
+    margin: 0 1rem;
+    font-size: 5rem;
+    font-weight: bold;
+    line-height: 18rem;
+    font-family:a시네마B;
+  }
+  
+  .nav-bar {
+    padding: 1rem 0 0 6rem;
+    height: 4rem;
+    background-color: #ffe699;
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 1rem;
+  }
+  
+  .home{
+    margin: 0 1.5rem;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 4rem;
+    border-radius: 1rem 1rem 0 0;
+  }
+  
+  .home:hover{
+        background-color: #fffcf3;
+      }
+
